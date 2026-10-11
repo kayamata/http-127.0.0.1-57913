@@ -9,6 +9,7 @@ export {
   CardContent,
 } from "./card";
 export { Input } from "./input";
+export { InstagramIcon } from "./instagram-icon";
 export {
   Dialog,
   DialogClose,
